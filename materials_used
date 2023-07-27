@@ -1,0 +1,8 @@
+Materials Used to Retrieve and Process UrbanSound8K Dataset:
+Kaggle
+
+
+Materials Used to Create and Train Model:
+Python 3.7.13
+TensorFlow 2.8.2
+Google Colab Pro Plus
